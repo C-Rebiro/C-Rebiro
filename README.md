@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C-Rebiro
 - 👀 I’m interested in learning more about web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me chrisrebiro02@gmail.com
 
 <!---
